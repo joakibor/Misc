@@ -1,5 +1,5 @@
 This tool is still in its infancy stage.
-At the moment it grabs all the stats of an account from the jagex highscores and saves it to file.
+At the moment it grabs all the stats of an account from the jagex highscores through their api and saves it to file.
 
 Eventually I want this to be able to track experience gain over time, display graphs and calculate how many ranks you've gone up/down over time.
 
