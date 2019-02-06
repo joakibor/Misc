@@ -1,15 +1,12 @@
 This tool is still in its infancy stage.
-At the moment all it does is grab a specified account's stats and rank from the Runescape highscores and saves it to file.
+At the moment it grabs all the stats of an account from the jagex highscores and saves it to file.
 
 Eventually I want this to be able to track experience gain over time, display graphs and calculate how many ranks you've gone up/down over time.
 
-There is a lot more functionality I'd like to add to this over time as well, but first things first.
-
-More to come:
-  * Give you a random skill to train, where what skill will be chosen has a different weight dependant on how much xp each skill has.
+There is a lot more functionality I'd like to add to this over time as well:
+  * Give you a random skill to train, where what skill will be chosen has a different weighting dependant on how much xp each skill has.
         (A skill with 15m xp is more likely to be chosen than a skill with 150m xp)
   * Calculate how much experience is left in each skill before maxing (maxing means every skill is level 99 or at 13.034m xp)
-  * Eventually I want to also be able to plug into the item price API (I have heard very bad things about this)
-      to be able to calculate total value of specified items.
+  * Eventually I want to also be able to plug into the item price API to be able to calculate total value of specified items.
   * ++
       
