@@ -4,6 +4,6 @@ This calculator will get the current prices off of an api from the website poe.n
 After you have entered all your currency items it will convert the total value into the base currency value; chaos orbs. 
 The calculator needs to be updated every 3 months as this is when the game "resets".
 
-This was my first time working with both API's and GUI, so it might not be perfect, but it works.
+This was my first time working with both API's and GUI.
 
 The "app" let's you put in all your different currency, calculate the total value and then save to file for easy access later.
